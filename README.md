@@ -1,4 +1,4 @@
-# 👋 Hello, this is Papac!
+# 👋🏽 Hello, this is Papac!
 
 ![Bio](https://raw.githubusercontent.com/papac/papac/master/bio.png)
 
