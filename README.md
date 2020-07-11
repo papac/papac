@@ -14,6 +14,6 @@ $app->get('bow', function () {
 
 - 👉🏽 <a href="mailto:dakiafranck@gmail.com">dakiafranck@gmail.com</a>
 - 👉🏽 [https://twitter.com/@franck_dakia](@franck_dakia)
-- Partager les mises à jour sur [LinkedIn](https://www.linkedin.com/in/franck-dakia) 💼
+- Mon [LinkedIn](https://www.linkedin.com/in/franck-dakia) 💼
 
 <p style="text-align: center; font-size: 100px">☕️ <a href="https://www.buymeacoffee.com/iOLqZ3h">Buy me coffee</a></p>
