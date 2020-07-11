@@ -1,6 +1,6 @@
 # 👋 Hello, this is Papac!
 
-![Bio](./bio.png)
+![Bio](https://raw.githubusercontent.com/papac/papac/master/bio.png)
 
 [Bow Framework](https://bowphp.com) and [Code Learning Club](https://codelearningclub.com) creator. Franck (papac) is a very open and smiling person. Really passionate about software development and DevOps lover ❤️ and i am available for collaboration.
 
