@@ -2,7 +2,7 @@
 
 ![Bio](https://raw.githubusercontent.com/papac/papac/master/bio.png)
 
-[Bow Framework](https://bowphp.com) and [Code Learning Club] Co-Founder (https://codelearningclub.com) creator. Franck (papac) is a very open and smiling person. Really passionate about software development and DevOps lover ❤️ and i am available for collaboration.
+[Bow Framework](https://bowphp.com) creator and [Code Learning Club](https://codelearningclub.com) Co-Founder. Franck (papac) is a very open and smiling person. Really passionate about software development and DevOps lover ❤️ and i am available for collaboration.
 
 ```php
 $app->get('bow', function () {
