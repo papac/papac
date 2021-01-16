@@ -16,4 +16,8 @@ $app->get('bow', function () {
 - 👉🏽 [https://twitter.com/@franck_dakia](@franck_dakia)
 - 💼 [My LinkedIn](https://www.linkedin.com/in/franck-dakia)
 
+Thank your to: [metrics.lecoq.io](https://metrics.lecoq.io)
+
+![Metrics](https://metrics.lecoq.io/papac?template=classic&config.timezone=Africa%2FAbidjan&config.animated=true)
+
 <p align="center"><a href="https://www.buymeacoffee.com/iOLqZ3h" font-color="#144579">☕️ Buy Me Coffee</a></p>
