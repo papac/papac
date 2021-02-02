@@ -21,3 +21,4 @@ Thank your to: [metrics.lecoq.io](https://metrics.lecoq.io)
 ![Metrics](https://metrics.lecoq.io/papac?template=classic&activity=1&isocalendar=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Africa%2FAbidjan&config.animated=true)
 
 <p align="center"><a href="https://www.buymeacoffee.com/iOLqZ3h" font-color="#144579">☕️ Buy Me Coffee</a></p>
+<p align="center"><a href="# font-color="#144579">Donate: ₿ 18wvCEA58jQ3D6qxCxu56fGCxXD3tnyAKa</a></p>
