@@ -12,7 +12,7 @@ $app->get('bow', function () {
 
 ### Find me
 
-- 👉🏽 <a href="mailto:dakiafranck@gmail.com">dakiafranck@gmail.com</a>
+- 👉🏽 <a href="mailto:hello@papac.dev">hello@papac.dev</a>
 - 👉🏽 [https://twitter.com/@papacdev](https://twitter.com/@papacdev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/franck-dakia)
 
