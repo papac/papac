@@ -1,8 +1,6 @@
 # 👋🏽 Hello, this is Papac!
 
-![Bio](https://raw.githubusercontent.com/papac/papac/master/bio.png)
-
-Create App from Ex Nihilo to the world class level. [Bow Framework](https://bowphp.com) creator and [Code Learning Club](https://codelearningclub.com) animator. Franck (papac) is a very open and smiling person. Really passionate about software development and DevOps lover ❤️ and i am available for collaboration.
+I love you. [Bow Framework](https://bowphp.com) creator and [Code Learning Club](https://codelearningclub.com) animator. Franck (papac) is a very open and smiling person. Really passionate about software development and DevOps lover ❤️ and i am available for collaboration.
 
 ```php
 $app->get('bow', function () {
