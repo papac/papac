@@ -1,5 +1,3 @@
-# 👋🏽 Hello, this is Papac!
-
 Software engineer. Working on [Bow Framework](https://bowphp.com) and [Code Learning Club](https://codelearningclub.com). Passionate about software development and DevOps lover ❤️ and i am available for collaboration.
 
 ```php
