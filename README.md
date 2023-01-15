@@ -1,4 +1,8 @@
-Software engineer. Working on [Bow Framework](https://bowphp.com) and [Code Learning Club](https://codelearningclub.com). Passionate about software development and DevOps lover ❤️ and i am available for collaboration.
+Software engineer - 
+Working on [Bow Framework](https://bowphp.com) and [Code Learning Club](https://codelearningclub.com) - 
+Passionate about Software development and DevOps.
+
+I am available for collaboration - i code with ❤️.
 
 ```php
 $app->get('bow', function () {
