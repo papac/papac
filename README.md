@@ -16,4 +16,6 @@ $app->get('bow', function () {
 - 👉🏽 [https://twitter.com/@papacdev](https://twitter.com/@papacdev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/franck-dakia)
 
-<p align="center"><a href="https://www.buymeacoffee.com/iOLqZ3h" font-color="#144579">☕️ Give coffee</a><br />I code with ❤️</p>
+I code with ❤️
+
+<p align="center"><a href="https://www.buymeacoffee.com/iOLqZ3h" style="color: #144579">☕️ Give coffee</a></p>
