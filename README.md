@@ -2,7 +2,7 @@ Software engineer -
 Working on [Bow Framework](https://bowphp.com) and [Code Learning Club](https://codelearningclub.com) - 
 Passionate about Software development and DevOps.
 
-I am available for collaboration - i code with ❤️.
+I am available for collaboration.
 
 ```php
 $app->get('bow', function () {
@@ -16,4 +16,4 @@ $app->get('bow', function () {
 - 👉🏽 [https://twitter.com/@papacdev](https://twitter.com/@papacdev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/franck-dakia)
 
-<p align="center"><a href="https://www.buymeacoffee.com/iOLqZ3h" font-color="#144579">☕️ Give coffee</a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/iOLqZ3h" font-color="#144579">☕️ Give coffee</a><br />I code with ❤️</p>
