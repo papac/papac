@@ -2,14 +2,13 @@ Software engineer -
 Working on [Bow Framework](https://bowphp.com) and [Code Learning Club](https://codelearningclub.com) - 
 Passionate about Software development and DevOps.
 
-I am available for collaboration.
-
 ```php
 $app->get('bow', function () {
   echo "📇 Bow Framework is awesome ❤️";
 });
 ```
 
+I am available for collaboration.
 ### Find me
 
 - 👉🏽 <a href="mailto:hello@papac.dev">hello@papac.dev</a>
