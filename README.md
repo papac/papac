@@ -11,7 +11,7 @@ $app->get('bow', function () {
 I am available for collaboration.
 ### Find me
 
-- 👉🏽 <a href="mailto:dakiafranck@gmail.com">Mail me</a>
+- 👉🏽 <a href="mailto:dakiafranck@gmail.com">E-Mail me</a>
 - 👉🏽 [@papacdev](https://twitter.com/@papacdev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/franck-dakia)
 
