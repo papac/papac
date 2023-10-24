@@ -1,4 +1,4 @@
-Senior Software engineer - 
+Senior Software Engineer - 
 Working on [Bow Framework](https://bowphp.com) and [Code Learning Club](https://codelearningclub.com) - 
 Passionate about Software development and DevOps.
 
