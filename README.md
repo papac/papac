@@ -1,4 +1,4 @@
-Software engineer - 
+Senior Software engineer - 
 Working on [Bow Framework](https://bowphp.com) and [Code Learning Club](https://codelearningclub.com) - 
 Passionate about Software development and DevOps.
 
@@ -8,7 +8,7 @@ $app->get('bow', function () {
 });
 ```
 
-I am available for collaboration.
+I am available for collaboration et je code depuis 2014
 ### Find me
 
 - 👉🏽 <a href="mailto:dakiafranck@gmail.com">E-Mail me</a>
