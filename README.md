@@ -8,7 +8,8 @@ $app->get('bow', function () {
 });
 ```
 
-I am available for collaboration and I have been coding since 2014
+I am available for collaboration.
+
 ### Find me
 
 - 👉🏽 <a href="mailto:dakiafranck@gmail.com">E-Mail me</a>
