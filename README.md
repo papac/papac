@@ -14,7 +14,7 @@ I am available for collaboration.
 
 - 👉🏽 <a href="mailto:dakiafranck@gmail.com">E-Mail me</a>
 - 👉🏽 [@papacdev](https://twitter.com/@papacdev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/franck-dakia)
+- 💼 [LinkedIn](https://www.linkedin.com/in/franckdakia)
 
 I code with ❤️
 
